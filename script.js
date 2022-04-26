@@ -21,3 +21,15 @@ alert(`A subtração dos números é ${num1 - num2}`)
 alert(`A multiplicação dos números é ${num1 * num2}`)
 alert(`A divisão dos números é ${num1 / num2}`)
 alert(`O resto da divisão dos dois números é ${num1 % num2}`)
+
+if ((num1 + num2) % 2 == 0) {
+  alert(`A soma de ${num1} e ${num2} é um valor par!`)
+} else {
+  alert(`A soma de ${num1} e ${num2} é um valor ímpar!`)
+}
+
+if (num1 === num2) {
+  alert('Os números digitados são iguais')
+}else {
+  alert('Os números digitados são diferentes')
+}
