@@ -33,3 +33,6 @@ if (num1 === num2) {
 }else {
   alert('Os números digitados são diferentes')
 }
+
+
+
