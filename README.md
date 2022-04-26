@@ -22,7 +22,7 @@ O que será abordado nesse desafio:
 
 O resultado final desse desafio deve ser algo em torno de:
 
-![Project´s preview]()
+![Project´s preview](https://github.com/Clara-Pacheco/Desafio_Rocketseat--Nivel4_Explorer--Ex01-Stage04/blob/main/assets/Peek_17-04-2022_16-28.gif)
 
 
 
